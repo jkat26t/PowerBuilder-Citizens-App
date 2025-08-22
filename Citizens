@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Καταχώρηση Πολιτών</title>
+</head>
+<body>
+  <h1>Καταχώρηση Ονομάτων Πολιτών</h1>
+  <form>
+    <label>Όνοματεπώνυμο: <input type="text" name="fullname"></label>
+    <button type="submit">Αποθήκευση</button>
+  </form>
+</body>
+</html>
